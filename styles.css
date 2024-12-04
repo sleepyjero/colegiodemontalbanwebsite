@@ -531,7 +531,6 @@ form input:focus, form select:focus {
 
 /* Gender Selection */
 form select#gender {
-    font-family: 'Times New Roman', serif; /* Use Times New Roman for dropdown */
     padding: 12px;
     font-size: 1rem;
     border: 1px solid #ccc;
@@ -551,7 +550,6 @@ form select#gender:focus {
 
 /* Address Field */
 form input#address {
-    font-family: 'Times New Roman', serif; /* Use Times New Roman */
     padding: 12px;
     font-size: 1rem;
     border: 1px solid #ccc;
@@ -588,10 +586,7 @@ form button:hover {
     background-color: #028B42;
 }
 
-/* Select Dropdown Styling */
-form select {
-    font-family: 'Times New Roman', serif; /* Times New Roman for dropdowns */
-}
+
 
 /* Footer Section */
 footer {
